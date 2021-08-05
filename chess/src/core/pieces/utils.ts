@@ -1,0 +1,1 @@
+export const normalizePieceType = (str: string) => str.toLowerCase();

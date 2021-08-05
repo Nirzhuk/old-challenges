@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Booked tag 1`] = `
+<span
+  class="sc-bdnxRM iafYIX"
+  data-testid="tag"
+>
+  booked
+</span>
+`;
+
+exports[`available tag 1`] = `
+<span
+  class="sc-bdnxRM iOncZf"
+  data-testid="tag"
+>
+  unavailable
+</span>
+`;
+
+exports[`unavailable tag 1`] = `
+<span
+  class="sc-bdnxRM eDRCdU"
+  data-testid="tag"
+>
+  available
+</span>
+`;

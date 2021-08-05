@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paragraph big size 1`] = `
+<p
+  class="sc-bdnxRM hsJSvg"
+  color="#11A960"
+>
+  booked
+</p>
+`;
+
+exports[`Paragraph green 1`] = `
+<p
+  class="sc-bdnxRM bQocks"
+  color="#11A960"
+>
+  booked
+</p>
+`;
+
+exports[`Paragraph normal 1`] = `
+<p
+  class="sc-bdnxRM gpuXDS"
+  color="black"
+>
+  booked
+</p>
+`;

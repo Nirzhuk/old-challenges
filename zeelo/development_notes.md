@@ -1,0 +1,6 @@
+- Faking API:
+    - Decided to use `json-server` because I used before to mock apis in development.
+    - Decided to give an example of mocking the api using promises and a few jsons data structures. The idea it's very similar to json-server on the underhood.
+- Consuming API:
+    - using `swr` gives me a lot of flexibility developing hooks and it's very well made, clean, small and very stronged tested.
+    - It's possible to be more complex to create a hook to handle all the types of HTTP requests with swr, to play with mutate and post, it's actually pretty interesting how it works. But I don't have so much time right now. If there's any need I can explain very breafly how It will works.

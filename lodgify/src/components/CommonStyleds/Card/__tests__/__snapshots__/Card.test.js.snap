@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Bookable 1`] = `
+<div
+  class="sc-hKFxyN dTzqPj"
+  data-testid="card"
+>
+  <div
+    class="sc-eCApnc igRcEp"
+  >
+    <div
+      class="sc-jSFjdj betVMN"
+    >
+      <div
+        class="sc-gKAaRy qBbhW"
+      >
+        <span
+          class="sc-dlnjwi fyRIny"
+          data-testid="tag"
+        >
+          available
+        </span>
+      </div>
+      <img
+        alt="House 1"
+        class="sc-iCoGMd bTrehl"
+        loading="lazy"
+        src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      />
+    </div>
+    <div
+      class="sc-fujyAs bYSxkY"
+    >
+      <div
+        class="sc-pNWdM hQjrQV"
+      >
+        <span
+          class="sc-gtsrHT bbWVNj"
+          color="#999999"
+        >
+          Id: 
+          1
+        </span>
+        <p
+          class="sc-jrsJWt Werog"
+        >
+          House 1
+        </p>
+      </div>
+      <div
+        class="sc-kEqXSa ixSTjh"
+      >
+        <button
+          class="sc-bdnxRM fsLDke"
+          data-testid="button"
+        >
+          Book
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card Booked 1`] = `
+<div
+  class="sc-hKFxyN dTzqPj"
+  data-testid="card"
+>
+  <div
+    class="sc-eCApnc igRcEp"
+  >
+    <div
+      class="sc-jSFjdj betVMN"
+    >
+      <div
+        class="sc-gKAaRy qBbhW"
+      >
+        <span
+          class="sc-dlnjwi iRZuWK"
+          data-testid="tag"
+        >
+          booked
+        </span>
+      </div>
+      <img
+        alt="House 1"
+        class="sc-iCoGMd bTrehl"
+        loading="lazy"
+        src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      />
+    </div>
+    <div
+      class="sc-fujyAs bYSxkY"
+    >
+      <div
+        class="sc-pNWdM hQjrQV"
+      >
+        <span
+          class="sc-gtsrHT bbWVNj"
+          color="#999999"
+        >
+          Id: 
+          1
+        </span>
+        <p
+          class="sc-jrsJWt Werog"
+        >
+          House 1
+        </p>
+      </div>
+      <div
+        class="sc-kEqXSa ixSTjh"
+      >
+        <p
+          class="sc-gtsrHT bzuYCR"
+          color="#11A960"
+        >
+           
+          <svg
+            fill="none"
+            height="16px"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="16px"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M22 11.08V12a10 10 0 1 1-5.93-9.14"
+            />
+            <polyline
+              points="22 4 12 14.01 9 11.01"
+            />
+          </svg>
+           Booked for 
+          5
+           days
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card Not Bookable 1`] = `
+<div
+  class="sc-hKFxyN dTzqPj"
+  data-testid="card"
+>
+  <div
+    class="sc-eCApnc igRcEp"
+  >
+    <div
+      class="sc-jSFjdj betVMN"
+    >
+      <div
+        class="sc-gKAaRy qBbhW"
+      >
+        <span
+          class="sc-dlnjwi jThYQV"
+          data-testid="tag"
+        >
+          unavailable
+        </span>
+      </div>
+      <img
+        alt="House 1"
+        class="sc-iCoGMd bTrehl"
+        loading="lazy"
+        src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+      />
+    </div>
+    <div
+      class="sc-fujyAs bYSxkY"
+    >
+      <div
+        class="sc-pNWdM hQjrQV"
+      >
+        <span
+          class="sc-gtsrHT bbWVNj"
+          color="#999999"
+        >
+          Id: 
+          1
+        </span>
+        <p
+          class="sc-jrsJWt Werog"
+        >
+          House 1
+        </p>
+      </div>
+      <div
+        class="sc-kEqXSa ixSTjh"
+      >
+        <button
+          class="sc-bdnxRM fsLDke"
+          data-testid="button"
+          disabled=""
+        >
+          Not Bookable
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

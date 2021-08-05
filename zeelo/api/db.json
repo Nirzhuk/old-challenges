@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184640l/7235533.jpg",
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson",
+      "price": 19.99
+    },
+    {
+      "id": "2",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316l/68428._SY475_.jpg",
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson",
+      "price": 19.99
+    },
+    {
+      "id": "3",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619538925l/68429._SY475_.jpg",
+      "title": "Mistborn: The Well of Ascension",
+      "author": "Brandon Sanderson",
+      "price": 19.99
+    },
+    {
+      "id": "4",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621284774l/2767793._SY475_.jpg",
+      "title": "The Hero of Ages",
+      "author": "Brandon Sanderson",
+      "price": 19.99
+    },
+    {
+      "id": "5",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610826947l/186074.jpg",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "price": 19.99
+    },
+    {
+      "id": "6",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032.jpg",
+      "title": "The Wise Man's Fear",
+      "author": "Patrick Rothfuss",
+      "price": 19.99
+    },
+    {
+      "id": "9999",
+      "image": "https://www.latercera.com/resizer/ea1q49SYrO1hu3K3LiDpJqUj-TM=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/IVEJZC2T7BEA3BAHI3A25WVK64.gif",
+      "title": "Lotr",
+      "author": "Someone",
+      "price": 999.99
+    }
+  ]
+}
